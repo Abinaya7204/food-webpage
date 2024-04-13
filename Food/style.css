@@ -1,0 +1,39 @@
+.intro{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+h1,li1{
+    display: inline;
+}
+.products{
+    text-align: center;
+    
+}
+.pic{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width:220px;
+}
+li{
+    text-align: center;
+    display: block;
+    padding: 10px;
+    color: aliceblue;
+
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+.contacts{
+    background-color: black;
+}
+.end{
+    padding: 3px;
+    text-align: center;
+    cursor: pointer;
+
+}
